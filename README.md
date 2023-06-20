@@ -1,4 +1,4 @@
-# lablab-Hackathon-project
+# Medical Chat-bot
 
 ## Demo
 https://github.com/ahmed-elsarta/lablab-Hackathon-project/assets/93448764/9c4a5cc0-f3a5-446c-ac6d-a1b005ae8891
